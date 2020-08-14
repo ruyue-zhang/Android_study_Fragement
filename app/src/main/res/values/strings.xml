@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Fragement</string>
+    <string name="android">Android</string>
+    <string name="java">Java</string>
+    <string name="change_fragment">Change Fragement</string>
+    <drawable name="clr_normal">#BAB8B7</drawable>
+    <drawable name="clr_pressed">#72BDDF</drawable>
 </resources>
