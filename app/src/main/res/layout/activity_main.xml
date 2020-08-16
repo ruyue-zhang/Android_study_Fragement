@@ -21,7 +21,7 @@
         android:layout_marginTop="40dp"
         android:text="@string/android"
         android:textAllCaps="false"
-        android:background="@drawable/btn_label_up"
+        android:background="@drawable/btn_label_pressed"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toLeftOf="@+id/forty_per"
         app:layout_constraintTop_toTopOf="parent" />
@@ -39,5 +39,12 @@
         app:layout_constraintRight_toLeftOf="@+id/forty_per"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <FrameLayout
+        android:id="@+id/my_fl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/lightGray"
+        app:layout_constraintRight_toRightOf="@+id/forty_per"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
