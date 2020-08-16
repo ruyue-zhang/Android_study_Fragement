@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fragement</string>
+    <string name="android">Android</string>
+    <string name="java">Java</string>
+    <string name="change_fragment">切换Fragment</string>
+    <string name="android_desc">Android 是一个移动端操作系统。可以使用Java,Kotlin,C/C++语言进行开发</string>
+    <string name="javaDescription">一个新的Fragment</string>
+</resources>
